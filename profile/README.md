@@ -2,115 +2,158 @@
 
 # BLACK RING SECURITY
 
-### Offensive Security • Red Team Operations • Adversarial Simulation
+### Offensive Security • Security Research • Red Team Operations
 
-**We breach to fortify.**
+**Technical security assessment built around real-world adversarial thinking.**
 
-Black Ring Security is a cybersecurity firm specializing in offensive security, authorized penetration testing, red team operations, vulnerability research, and adversarial simulation.
-
-We identify weaknesses before adversaries do and help organizations strengthen their security posture through realistic security assessments, research, and advanced offensive security operations.
+[Website](https://blackringsec.com/) • [LinkedIn](https://www.linkedin.com/company/blackringsec/) • [GitHub](https://github.com/Black-Ring-Security) • [Email](mailto:info@blackringsec.com)
 
 ---
 
-### Our Focus
+</div>
 
-`Offensive Security` • `Penetration Testing` • `Red Teaming` • `Vulnerability Research` • `Malware Analysis` • `Reverse Engineering` • `Network Security` • `Active Directory Security` • `Purple Teaming` • `Incident Response`
+## Who We Are
 
----
+**Black Ring Security** is a cybersecurity company focused on offensive security, security research, adversarial simulation, and technical security assessment.
 
-## Black Ring Security
+We work to identify and validate security weaknesses before they can be abused by real-world attackers.
 
-We focus on identifying, validating, and demonstrating security weaknesses through controlled and authorized security testing.
-
-Our work includes:
-
-* Penetration Testing
-* Red Team Operations
-* Adversarial Simulation
-* Vulnerability Assessment
-* Vulnerability Research
-* Web Application Security
-* API Security Testing
-* Network Security Assessment
-* Active Directory Security
-* Malware Analysis
-* Reverse Engineering
-* Purple Team Exercises
-* Security Research
-* Incident Response
+Our approach combines structured security methodology, technical depth, and practical adversarial thinking.
 
 ---
 
-## Our Mission
+## Core Capabilities
 
-To expose security weaknesses before they can be exploited by real adversaries.
-
-Black Ring Security combines technical research, offensive security methodology, and adversarial thinking to help organizations understand their real attack surface and improve their defensive capabilities.
-
----
-
-## Official Links
-
-| Platform | Link                                                                                |
-| -------- | ----------------------------------------------------------------------------------- |
-| Website  | [blackringsec.com](https://blackringsec.com/)                                       |
-| GitHub   | [github.com/Black-Ring-Security](https://github.com/Black-Ring-Security)            |
-| LinkedIn | [linkedin.com/company/blackringsec](https://www.linkedin.com/company/blackringsec/) |
-| Email    | [info@blackringsec.com](mailto:info@blackringsec.com)                               |
+| Area                        | Capabilities                                                           |
+| --------------------------- | ---------------------------------------------------------------------- |
+| **Offensive Security**      | Penetration Testing, Red Team Operations, Adversarial Simulation       |
+| **Application Security**    | Web Security, API Security, Security Assessment                        |
+| **Infrastructure Security** | Network Security, Active Directory Security, Attack Surface Assessment |
+| **Security Research**       | Vulnerability Research, Exploit Analysis, Security Tooling             |
+| **Reverse Engineering**     | Malware Analysis, Binary Analysis, Reverse Engineering                 |
+| **Defensive Security**      | Detection Engineering, Incident Response, Purple Team Operations       |
 
 ---
 
-## Connect With Us
+## What We Build
 
-<p align="center">
-  <a href="https://blackringsec.com/">
-    <img src="https://img.shields.io/badge/Website-blackringsec.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-  <a href="https://github.com/Black-Ring-Security">
-    <img src="https://img.shields.io/badge/GitHub-Black--Ring--Security-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/company/blackringsec/">
-    <img src="https://img.shields.io/badge/LinkedIn-Black_Ring_Security-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:info@blackringsec.com">
-    <img src="https://img.shields.io/badge/Email-info%40blackringsec.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+Our GitHub organization is used to publish and maintain:
+
+* Security research projects
+* Offensive security tooling
+* Defensive security utilities
+* Detection engineering resources
+* Proof-of-concept research
+* Automation for security operations
+* Internal security frameworks
+* Technical documentation
+* Open-source cybersecurity projects
 
 ---
 
 ## Security Research
 
-Our GitHub organization is used for security research, open-source projects, security tooling, detection engineering, research publications, and technical resources developed by Black Ring Security.
+We believe useful security research should be reproducible, technically sound, and responsible.
 
-> All security research, testing, tooling, and demonstrations published by Black Ring Security are intended for authorized security research, defensive security, and legitimate security assessment purposes.
+Repositories published under Black Ring Security may include research related to:
+
+```text
+Web Application Security
+API Security
+Network Security
+Active Directory
+Malware Analysis
+Reverse Engineering
+Threat Detection
+OSINT
+Security Automation
+Vulnerability Research
+```
+
+---
+
+## Engineering Principles
+
+We design our security work around several principles:
+
+**Evidence over assumptions**
+Findings should be technically verifiable and reproducible.
+
+**Real attack paths**
+Security assessments should reflect realistic adversarial behavior.
+
+**Controlled research**
+Security testing and research must operate within authorized environments.
+
+**Technical clarity**
+Reports, tools, and findings should be understandable and actionable.
+
+**Continuous improvement**
+Security engineering is an iterative process, not a one-time assessment.
+
+---
+
+## Responsible Security
+
+Black Ring Security supports authorized cybersecurity research and responsible security testing.
+
+Our tools, research, and technical demonstrations are intended for:
+
+* Authorized penetration testing
+* Defensive security
+* Security research
+* Vulnerability validation
+* Education
+* Security engineering
+
+Unauthorized access to systems or networks is outside the intended use of our work.
 
 ---
 
 ## Responsible Disclosure
 
-If you discover a security issue affecting Black Ring Security infrastructure or services, please contact us through:
+If you identify a vulnerability affecting Black Ring Security infrastructure, services, or software, contact us directly.
 
-**Security Contact:**
+**Security Contact**
+
 [info@blackringsec.com](mailto:info@blackringsec.com)
 
-Please provide sufficient technical information to reproduce and validate the issue.
+Please include:
+
+* A clear description of the issue
+* Affected component
+* Reproduction steps
+* Technical evidence
+* Potential security impact
 
 ---
 
-## Organization
+<div align="center">
 
-**Black Ring Security**
+## Connect With Black Ring Security
 
-Cybersecurity • Offensive Security • Security Research
+<a href="https://blackringsec.com/">
+<img src="https://img.shields.io/badge/BLACK_RING_SECURITY-WEBSITE-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
+</a>
 
-🌐 [blackringsec.com](https://blackringsec.com/)
-💼 [LinkedIn](https://www.linkedin.com/company/blackringsec/)
-💻 [GitHub](https://github.com/Black-Ring-Security)
-✉️ [info@blackringsec.com](mailto:info@blackringsec.com)
+<a href="https://www.linkedin.com/company/blackringsec/">
+<img src="https://img.shields.io/badge/LINKEDIN-BLACK_RING_SECURITY-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Black-Ring-Security">
+<img src="https://img.shields.io/badge/GITHUB-BLACK--RING--SECURITY-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:info@blackringsec.com">
+<img src="https://img.shields.io/badge/CONTACT-info%40blackringsec.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 ---
 
-**© Black Ring Security. All rights reserved.**
+### BLACK RING SECURITY
+
+**Offensive Security • Security Research • Adversarial Operations**
+
+`blackringsec.com`
 
 </div>
